@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Undine.Serialization", "Undine.Serialization\Undine.Serialization.csproj", "{75D101AF-59D1-4DFD-88F2-5D2A015AEEAD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Undine.Serialization.Tests", "Undine.Serialization.Tests\Undine.Serialization.Tests.csproj", "{0C648ED9-CB3A-4FB2-B12A-F06CD56E7158}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{75D101AF-59D1-4DFD-88F2-5D2A015AEEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D101AF-59D1-4DFD-88F2-5D2A015AEEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D101AF-59D1-4DFD-88F2-5D2A015AEEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C648ED9-CB3A-4FB2-B12A-F06CD56E7158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C648ED9-CB3A-4FB2-B12A-F06CD56E7158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C648ED9-CB3A-4FB2-B12A-F06CD56E7158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C648ED9-CB3A-4FB2-B12A-F06CD56E7158}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
+    <PackageReference Include="Undine.Core" Version="0.0.0.3" />
   </ItemGroup>
 
 </Project>
